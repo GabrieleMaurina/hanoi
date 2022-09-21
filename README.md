@@ -1,2 +1,2 @@
 # hanoi
-C++ implementation of the Tower od Hanoi
+C++ implementation of the Tower of Hanoi
